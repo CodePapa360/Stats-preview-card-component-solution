@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview]()
+- [👉 Click here to see Live preview](https://codepapa360.github.io/Stats-preview-card-component-solution/)
 <br>
 
 - [👉 Frontendmentor solution]()
