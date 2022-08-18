@@ -25,7 +25,7 @@ Users should be able to:
 - [👉 Click here to see Live preview](https://codepapa360.github.io/Stats-preview-card-component-solution/)
 <br>
 
-- [👉 Frontendmentor solution]()
+- [👉 Frontendmentor solution](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-JIUKhkvwNa)
 
 ## My process
 
